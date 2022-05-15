@@ -2,7 +2,7 @@
 
 
 - 👨‍🎓 Pursuing Computer Science
-- 🔥 I'm seeking new experiences
+- 🔥 I'm seeking new experiences in the area
 - 🥇Improving .NET skills
 
 <br/>
