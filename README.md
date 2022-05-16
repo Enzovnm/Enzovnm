@@ -4,6 +4,7 @@
 - 👨‍🎓 Pursuing Computer Science
 - 🔥 I'm seeking new experiences in the area
 - 🥇Improving .NET skills
+- 🛠 VsCode, Git and Github
 
 <br/>
 <div align="center">
