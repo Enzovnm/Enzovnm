@@ -3,7 +3,7 @@
 
 - 👨‍🎓 Pursuing Computer Science
 - 🔥 I'm seeking new experiences in the area
-- 🥇 APIS and Integrations
+- 🥇 APIs and Integrations
 - 🛠 VsCode, Git and Github
 
 
