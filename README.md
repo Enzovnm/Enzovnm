@@ -3,17 +3,10 @@
 
 - 👨‍🎓 Pursuing Computer Science
 - 🔥 I'm seeking new experiences in the area
-- 🥇Improving .NET skills
+- 🥇 APIS and Integrations
 - 🛠 VsCode, Git and Github
 
-<br/>
-<div align="center">
-  <a href="https://github.com/Enzovnm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Enzovnm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzovnm&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<br/><br/>
-  
+
   
   ## Tech Stack &nbsp;💻
   <div style="display: inline_block"><br/>
