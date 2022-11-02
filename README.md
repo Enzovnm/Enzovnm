@@ -1,5 +1,5 @@
 <div style="display inline_block">
-   <img align="right" alt="HTML" height="425" width="400" src="https://user-images.githubusercontent.com/72459340/199549448-1c41e7ca-8ac4-48f3-809e-c682398ef969.gif">
+   <img align="right" alt="HTML" height="300" width="200" src="https://user-images.githubusercontent.com/72459340/199549448-1c41e7ca-8ac4-48f3-809e-c682398ef969.gif">
 </div>
 
 
