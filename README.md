@@ -13,9 +13,6 @@
 - 🛠 VsCode, Git and Github
 
 
-
-
-
   
  # Tech Stack &nbsp;💻
   <div style="display: inline_block"><br/>
@@ -32,8 +29,16 @@
     <img align="center" alt=".NET" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
     <img align="center" alt="MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   </div>
-  <br/><br/>
+  <br/>
   
+# Git Hub Statics 📊
+
+<div><a href="https://github.com/Enzovnm"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Enzovnm&show_icons=true&theme=transparent"/>    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzovnm&layout=compact"/></div>
+   
+## Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/Enzovnm/count.svg)
+
+
 # Contact Me &nbsp;🙋‍♂️
   <div style="display: inline_block"><br/>
       <a href = "mailto:enzovila.monteiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"  target="_blank"></a>
