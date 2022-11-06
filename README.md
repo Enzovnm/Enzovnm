@@ -31,11 +31,15 @@
   </div>
   <br/>
   
-# Git Hub Statics 📊
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Enzovnm&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Enzovnm&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Enzovnm&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<div><a href="https://github.com/Enzovnm"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Enzovnm&show_icons=true&theme=transparent"/>    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzovnm&layout=compact"/></div>
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Enzovnm&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
    
-## Visitor Count
+# 🔢 Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/Enzovnm/count.svg)
 
 
