@@ -6,7 +6,6 @@
 <div style="display inline_block">
    <img align="right" alt="HTML" height="350" width="400" src="https://user-images.githubusercontent.com/72459340/199570065-44b54547-7063-49ed-b90b-0f5250979367.gif">
 </div>
-<br/>
 
 
 - 👨‍🎓 Pursuing Computer Science
