@@ -1,49 +1,49 @@
+# Welcome 👋 I'm Enzo Monteiro
 
-
-
-# Welcome👋 I'm Enzo Monteiro
-
-<div style="display inline_block">
-   <img align="right" alt="HTML" height="350" width="400" src="https://user-images.githubusercontent.com/72459340/199570065-44b54547-7063-49ed-b90b-0f5250979367.gif">
+<div style="display:inline_block">
+   <img align="right" alt="GIF" height="300" width="400" src="https://media.giphy.com/media/S9ZLzVFg6PBAyWGUwj/giphy.gif">
 </div>
 
+- I'm a programmer, driven by the understanding and reflection on contemporary challenges, as well as by the planning and construction of efficient algorithms to solve them.
+- I began my journey in programming at the age of 16, when I wrote my first "Hello, world" in Python.
+- Specialist in software automation.
+- Currently in the final semester of my Computer Science degree.
 
-- 👨‍🎓 Pursuing Computer Science
-- 🧑‍💻 API Integrations Developer
-- 🛠 VsCode, Git and Github
+**Languages:**  
+🇧🇷 Brazilian Portuguese - Native  
+🇬🇧 English – Conversational & technical reading
 
-  
- # Tech Stack &nbsp;💻
-  <div style="display: inline_block"><br/>
-    <img align="center" alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img align="center" alt="CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img align="center" alt="JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img align="center" alt="Bootstrap" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="SASS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  </div>
-  <div style="display: inline_block"><br/>
-    <img align="center" alt="Python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-    <img align="center" alt="SELENIUM" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
-    <img align="center" alt="C#" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-    <img align="center" alt=".NET" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-    <img align="center" alt="MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  </div>
-  <br/>
-  
-# 📊 GitHub Stats:
+# Tech Stack &nbsp;💻
+<div style="display: inline_block"><br/>
+  <!-- BACKEND -->
+  <b>BACK-END:</b><br/>
+  <img align="center" alt=".NET" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <img align="center" alt="C#" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="Python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+</div>
+<div style="display: inline_block"><br/>
+  <!-- FRONTEND -->
+  <b>FRONT-END:</b><br/>
+  <img align="center" alt="JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="TypeScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+</div>
+<div style="display: inline_block"><br/>
+  <!-- CI/CD & CLOUD -->
+  <b>CI/CD & CLOUD:</b><br/>
+  <img align="center" alt="AWS" height="50" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/amazonaws.svg?color=ffffff" />
+  <img align="center" alt="Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+</div>
+<br/>
+
+# Contact Me &nbsp;🙋‍♂️
+<div style="display: inline_block"><br/>
+  <a href="mailto:enzovila.monteiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/enzovila/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Enzovnm&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Enzovnm&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Enzovnm&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Enzovnm&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-   
-# 🔢 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/Enzovnm/count.svg)
-
-
-# Contact Me &nbsp;🙋‍♂️
-  <div style="display: inline_block"><br/>
-      <a href = "mailto:enzovila.monteiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"  target="_blank"></a>
-  <a href="https://www.linkedin.com/in/enzovila/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  </div>
