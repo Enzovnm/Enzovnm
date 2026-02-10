@@ -32,7 +32,7 @@
 <div style="display: inline_block"><br/>
   <!-- CI/CD & CLOUD -->
   <b>CI/CD & CLOUD:</b><br/>
-  <img align="center" alt="AWS" height="50" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/amazonaws.svg?color=ffffff" />
+  <img align="center" alt="AWS" height="50" width="60" src="https://logo.svgcdn.com/logos/aws.svg" />
   <img align="center" alt="Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 </div>
 <br/>
