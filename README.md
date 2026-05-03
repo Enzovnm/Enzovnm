@@ -1,7 +1,7 @@
 # Welcome 👋 I'm Enzo Monteiro
 
 <div style="display:inline_block">
-   <img align="right" alt="GIF" height="250" width="300" src="https://media.giphy.com/media/S9ZLzVFg6PBAyWGUwj/giphy.gif">
+   <img align="right" alt="GIF" height="250" width="300" src="https://github.com/user-attachments/assets/e711471a-3af6-49b2-895b-1cff12e67a5e">
 </div>
 
 - I'm a programmer, driven by the understanding and reflection on contemporary challenges, as well as by the planning and construction of efficient algorithms to solve them.
