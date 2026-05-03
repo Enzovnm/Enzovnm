@@ -64,9 +64,5 @@
 # 📊 GitHub Stats
 
 <div align="center" style="display:flex; flex-wrap:wrap; gap:10px; justify-content:center;">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Enzovnm&show_icons=true&theme=dark&cache_seconds=1800"/>
-  
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzovnm&layout=compact&theme=dark&cache_seconds=1800"/>
-  
   <img height="160em" src="https://streak-stats.demolab.com?user=Enzovnm&theme=dark"/>
 </div>
